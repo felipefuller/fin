@@ -1,0 +1,2 @@
+# fin
+desarrollo proyecto finanzas
